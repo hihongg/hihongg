@@ -7,6 +7,6 @@
 * 📚 Currently learning **Python**
 * 💻 Interested in IT stuff & coding
 * ✨ **Genshin addict ** UID :857147819
-* 💦<span style="color:cyan">Love Cyan color</span>
+* 💦 <span style="color:cyan">Love Cyan color</span>
 
 ##
