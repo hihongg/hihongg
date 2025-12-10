@@ -1,12 +1,12 @@
 # Hi, I'm **Hai Hoang**
 
-### 🎓 Student at **UET - VNU 25020138 CN1**
+### 🎓 Student at **VNU University of Engineering and Technology 25020138 CN1**
 
 ## 👋 About Me
 
 * 📚 Currently learning **Python**
 * 💻 Interested in IT stuff & coding
-* ✨ **Genshin addict ** UID :857147819
+* ✨ **Genshin addict ** UID :857147819 ASIA
 * 💦 <span style="color:cyan">Love Cyan color</span>
 
 ## 🏆 LeetCode Stats
