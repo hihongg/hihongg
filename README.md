@@ -2,7 +2,7 @@
 
 ### 🎓 First-year student at **VNU University of Engineering and Technology 25020138 CN1**
 
-## 👋 About Me
+## 👋 About Me [👉 https://hihongg.github.io](https://hihongg.github.io)
 
 * 📚 Currently learning **Python**
 * 💻 Interested in IT stuff & coding
