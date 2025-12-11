@@ -1,6 +1,6 @@
 # Hi, I'm **Hai Hoang**
 
-### 🎓 Student at **VNU University of Engineering and Technology 25020138 CN1**
+### 🎓 First-year student at **VNU University of Engineering and Technology 25020138 CN1**
 
 ## 👋 About Me
 
