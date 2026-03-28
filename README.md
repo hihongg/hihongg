@@ -4,7 +4,7 @@
 
 ## 👋 About Me [👉 https://hihongg.github.io](https://hihongg.github.io)
 
-* 📚 Currently learning **Python**
+* 📚 Currently learning **Python**, **Java**
 * 💻 Interested in IT stuff & coding
 * ✨ **Genshin addict ** UID :857147819 ASIA
 * 💦 <span style="color:cyan">Love Cyan color</span>
